@@ -7,10 +7,6 @@
     </div>
 
     <!-- comics -->
-    <div id="comics">
-
-
-
-    </div>
+    @include('partials/comics')
 </main>
 @endsection
