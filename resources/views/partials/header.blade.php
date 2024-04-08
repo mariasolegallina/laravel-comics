@@ -5,7 +5,7 @@
         <img id="logo" src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="Logo DC">
 
         <!-- nav-menu -->
-        <ul class="d-flex">
+        <ul style="margin-bottom: 0;" class="d-flex">
             <li><a href="#">characters</a></li>
             <li class="active"><a href="#">comix</a></li>
             <li><a href="#">movies</a></li>
